@@ -6,7 +6,7 @@ API_HASH = os.environ.get("API_HASH", "")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 
 ADMIN = int(os.environ.get("ADMIN", ""))
-PICS = (os.environ.get("PICS", "")).split()
+PICS = (os.environ.get("PICS", "https://www.uhdpaper.com/2023/07/genshin-impact-furina-game-4k-161m.html")).split()
 
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
 
