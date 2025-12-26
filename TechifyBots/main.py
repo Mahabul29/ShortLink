@@ -172,7 +172,7 @@ async def shorten_link(_, m):
     usr = m.from_user
     try:
         short = await short_link(link=txt, user_id=usr.id)
-        msg = f"**✨ Your Short Link Is Ready!\n\n🔗 𝗟𝗶𝗻𝗸: <code>{short}</code>\n\n>✨ By: @EvaLinks**"
+        msg = f"**✨ Your Short Link Is Ready!\n\n🔗 𝗟𝗶𝗻𝗸: <code>{short}</code>\n\n>✨ By: http://Shortxlinks.com**"
         await m.reply_text(msg, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("❌ Close", callback_data="close")]]))
     except Exception as e:
         await m.reply_text(f"Error shortening link: {e}")
