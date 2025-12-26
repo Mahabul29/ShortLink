@@ -16,7 +16,7 @@ Click The Help Button Below To Get More Info.
 
 𝘉𝘺 = @{}"""
   
-  ABOUT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : <a href='https://youtube.com/@techifybots'>sʜᴏʀᴛʟɪɴᴋ ʙᴏᴛ</a>
+  ABOUT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : <a href='@linkshortener_V2Bot'>sʜᴏʀᴛʟɪɴᴋ ʙᴏᴛ</a>
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ᴅᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏᴅʙ</a>
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
